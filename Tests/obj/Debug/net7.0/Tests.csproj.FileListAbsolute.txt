@@ -1,0 +1,12 @@
+C:\Users\joao_\Desktop\teststrapwire\Tests\bin\Debug\net7.0\Tests.deps.json
+C:\Users\joao_\Desktop\teststrapwire\Tests\bin\Debug\net7.0\Tests.dll
+C:\Users\joao_\Desktop\teststrapwire\Tests\bin\Debug\net7.0\Tests.pdb
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\Tests.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\Tests.AssemblyInfoInputs.cache
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\Tests.AssemblyInfo.cs
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\Tests.dll
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\refint\Tests.dll
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\Tests.pdb
+C:\Users\joao_\Desktop\teststrapwire\Tests\obj\Debug\net7.0\ref\Tests.dll
